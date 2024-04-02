@@ -16,5 +16,5 @@ let
   systems = [ ai ];
 in
 {
-  "./occam-razor.age".publicKeys = users ++ systems;
+  "./occamrazor.age".publicKeys = users ++ systems;
 }
